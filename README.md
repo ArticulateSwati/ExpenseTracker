@@ -39,7 +39,7 @@ This project is a perfect example of modern web logic. It is specifically crafte
 ## 📂 Project Structure
 
 ```text
-├── index.html   # The structural skeleton
-├── style.css    # The visual design & animations
-├── script.js    # The functional "brain" of the app
-└── QuizGif.gif  # Visual demo of the application
+├── index.html         # The structural skeleton
+├── style.css          # The visual design & animations
+├── script.js          # The functional "brain" of the app
+└── ExpenceTrackergif  # Visual demo of the application
