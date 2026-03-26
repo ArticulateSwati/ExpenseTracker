@@ -11,7 +11,7 @@ A sleek, **beginner-friendly**, and highly interactive financial management tool
 
 ## 🚀 Live Demo
 
-![Expensify Demo](./ExpenceTrackergif) 
+![Expensify Demo](./ExpenseTrackergif.gif) 
 
 ---
 
